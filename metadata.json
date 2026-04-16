@@ -1,0 +1,6 @@
+{
+  "name": "Fisherfolk Weather & Sea Safety",
+  "description": "Hyperlocal marine weather risk advisories and safety alerts for Indian coastal fishermen.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
